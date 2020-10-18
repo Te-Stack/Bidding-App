@@ -1,0 +1,26 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Raleway', sans-serif;
+    background-color: #80cfa9;
+    color: #f8f8f8;
+}
+
+.but{
+    color: #f8f8f8;
+    background-color: #69CDFF;
+    font-weight: bolder;
+    width: 25vw;
+
+}
+
+
+
+.details{
+    display: flex;
+    justify-content: space-evenly;
+    border-bottom: #f8f8f8 1px solid;
+    padding: 20px;
+
+}
